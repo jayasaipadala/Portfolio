@@ -42,4 +42,4 @@ To use the website, follow these steps:
 - To toggle between light and dark themes, click the theme toggle button in the top right corner of the website.
 
 ## Live Website
-This website is live and can be accessed at https://portfolio-yashwanth-javvaji.vercel.app/. Feel free to explore the website and get in touch with me through the contact form if you have any questions or feedback.
+This website is live and can be accessed at https://portfolio-master-jayasaipadala-jaya-sai-padalas-projects.vercel.app/. Feel free to explore the website and get in touch with me through the contact form if you have any questions or feedback.
