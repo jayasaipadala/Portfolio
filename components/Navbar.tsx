@@ -40,7 +40,7 @@ const Navbar = forwardRef<HTMLDivElement>((_, ref) => {
                         <div className="relative flex h-16 items-center justify-between">
                             <Link href="/" className="flex flex-row justify-center items-center gap-2 hover:scale-105 hover:animate-pulse transition duration-300 ease-in-out">
                                 <span className="flex items-center justify-center w-8 h-8 rounded bg-white text-blue-900">
-                                    <p className="font-bold">YJ</p>
+                                    <p className="font-bold">SP</p>
                                 </span>
                                 <span className="hidden sm:block uppercase tracking-[2px] text-sm text-white whitespace-nowrap">Surya Jaya Sai<br />Padala</span>
                             </Link>
