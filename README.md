@@ -25,7 +25,7 @@ This project was built using the following technologies:
 ## Getting Started
 To get started with the project, follow these steps:
 - Clone the repository.
-<br />```git clone https://github.com/yashwanth-javvaji/portfolio.git```
+<br />```git clone https://github.com/jayasaipadala/Portfolio.git```
 - Navigate into the project directory.
 <br />```cd portfolio```
 - Install the project dependencies.
